@@ -1,0 +1,48 @@
+部活の詰将棋問題のWeb版
+
+question_1.html
+question_2.html
+question_3.html
+question_4.html
+question_5.html
+
+3問中3問正解.
+
+作成イメージ図
+├── Level1
+│   ├── index.html
+│   ├── last.html
+│   ├── q1.PNG
+│   ├── q2.PNG
+│   ├── q3.PNG
+│   ├── q4.PNG
+│   ├── question_1.html
+│   ├── question_2.html
+│   ├── question_3.html
+│   └── question_4.html
+※　Level 1~15ぐらいまで作成できると理想的
+├── Level10
+│   ├── index.html
+│   ├── last.html
+│   ├── q1.PNG
+│   ├── question_1.html
+│   ├── question_2.html
+│   ├── question_3.html
+│   └── question_4.html
+├── Level5
+│   ├── gameover.html
+│   ├── index.html
+│   ├── last.html
+│   ├── q1.PNG
+│   ├── q2.PNG
+│   ├── q3.PNG
+│   ├── q4.PNG
+│   ├── question_1.html
+│   ├── question_2.html
+│   ├── question_3.html
+│   └── question_4.html
+├── base.html：本当はpostURLBlankとかで遷移させたい。
+├── pictures
+└── 方針.txt
+
+4 directories, 30 files
